@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ba61251-4fa6-4033-bea8-0d3ac8423d12" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Samples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Fist Expression Capture.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Fist Expression Capture.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Grab Expression Capture.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Grab Expression Capture.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Open Expression Capture.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Open Expression Capture.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Pinch Expression Capture.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Pinch Expression Capture.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Poke Expression Capture.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Poke Expression Capture.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Resting Expression Capture.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Resting Expression Capture.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Thumb Expression Capture.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Hand Expression Captures/Thumb Expression Capture.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/Scripts/XRDeviceSimulatorControllerUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/Scripts/XRDeviceSimulatorControllerUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/Scripts/XRDeviceSimulatorHandsUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/Scripts/XRDeviceSimulatorHandsUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/Scripts/XRDeviceSimulatorUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/Scripts/XRDeviceSimulatorUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Controller/ControllerLeft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Controller/ControllerLeft.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Controller/ControllerOverlayLinesLeft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Controller/ControllerOverlayLinesLeft.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Controller/ControllerOverlayLinesRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Controller/ControllerOverlayLinesRight.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Controller/ControllerRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Controller/ControllerRight.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Controller/xr_ctlr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Controller/xr_ctlr.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/CloseWindow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/CloseWindow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/CycleXRDevices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/CycleXRDevices.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/DeviceSimUI_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/DeviceSimUI_bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/Gripper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/Gripper.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/KeyboardIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/KeyboardIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/Locked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/Locked.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/Look.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/Look.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/OpenWindow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/OpenWindow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/Unlocked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/Unlocked.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/btn_bgbottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/General/btn_bgbottom.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Default.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Fist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Fist.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Grab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Grab.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Open.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Pinch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Pinch.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Poke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Poke.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/Hand_Thumb.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/hand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Hands/hand.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/HMD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/HMD.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/HMDOverlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/HMDOverlay.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/HMD_d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/HMD_d.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/MoveRotateTool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/MoveRotateTool.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/Movement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/Movement.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/XR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/XR.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/xr_hmd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Head/xr_hmd.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Mouse.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Mouse/Cursor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Mouse/Cursor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Mouse/Mouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Mouse/Mouse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Mouse/MouseMoveAround.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Mouse/MouseMoveAround.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Mouse/MouseR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Mouse/MouseR.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Mouse/MouseR_d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/Mouse/MouseR_d.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/XR Device Simulator UI.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/UI/XR Device Simulator UI.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/XR Device Controller Controls.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/XR Device Controller Controls.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/XR Device Hand Controls.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/XR Device Hand Controls.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/XR Device Simulator Controls.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/XR Device Simulator Controls.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/XR Device Simulator.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRDeviceSimulator/XR Device Simulator.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/Scripts/XRInteractionSimulatorInputFeedbackUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/Scripts/XRInteractionSimulatorInputFeedbackUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/Scripts/XRInteractionSimulatorPlayModeMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/Scripts/XRInteractionSimulatorPlayModeMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/BothControllers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/BothControllers.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/ControllerLeft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/ControllerLeft.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/ControllerRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/ControllerRight.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/LeftController.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/LeftController.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/LeftControllerOutline@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/LeftControllerOutline@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/RightController.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/RightController.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/RightControllerOutline@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Controller/RightControllerOutline@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/General.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/General/SwitchIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/General/SwitchIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/General/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/General/bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Grab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Grab.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Hand_Left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Hand_Left.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Hand_Right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Hand_Right.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Hands.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Hands.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/LeftHandOutline@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/LeftHandOutline@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/LeftHandOutlineThin@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/LeftHandOutlineThin@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Pinch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Pinch.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Poke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/Poke.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/RightHandOutline@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/RightHandOutline@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/RightHandOutlineThin@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Hands/RightHandOutlineThin@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Headset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Headset/HeadsetOutline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Headset/HeadsetOutline.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Headset/HeadsetOutline@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Headset/HeadsetOutline@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Highlight.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Highlight/RoundedHighlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Highlight/RoundedHighlight.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Highlight/highlight_head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Highlight/highlight_head.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Highlight/highlight_rect_horizontal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Highlight/highlight_rect_horizontal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Highlight/highlight_rect_vertical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Highlight/highlight_rect_vertical.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Modes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Modes/MirrorMode@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Modes/MirrorMode@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Modes/NavigationMode@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Modes/NavigationMode@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/BackRotate@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/BackRotate@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/ForwardRotate@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/ForwardRotate@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/LeftRotate@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/LeftRotate@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/RightRotate@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/RightRotate@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/RotateDownArrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/RotateDownArrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/RotateLeftArrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/RotateLeftArrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/RotateRightArrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/RotateRightArrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/RotateUpArrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Rotate/RotateUpArrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateBack@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateBack@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateDown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateDown.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateForward@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateForward@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateLeft@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateLeft@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateRight@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateRight@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/Translate/TranslateUp.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/XR Interaction Simulator UI.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/UI/XR Interaction Simulator UI.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/XR Interaction Controller Controls.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/XR Interaction Controller Controls.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/XR Interaction Simulator Controls.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/XR Interaction Simulator Controls.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/XR Interaction Simulator.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/3.1.1/XR Device Simulator/XRInteractionSimulator/XR Interaction Simulator.prefab.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../VR-BIM-Visualizer/Assets/Scripts/Video Activator.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2y0mZtGk1kAw4XOoAYmEXp5o2vY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.62f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\jvmuelle\Documents\Github\VR-Building-Explorer -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\jvmuelle\Documents\Github\VR-Building-Explorer" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.62f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\jvmuelle\Documents\Github\VR-Building-Explorer -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\jvmuelle\Documents\Github\VR-Building-Explorer" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ba61251-4fa6-4033-bea8-0d3ac8423d12" name="Changes" comment="" />
+      <created>1748979924773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748979924773</updated>
+      <workItem from="1748979926239" duration="436000" />
+      <workItem from="1748980544410" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
