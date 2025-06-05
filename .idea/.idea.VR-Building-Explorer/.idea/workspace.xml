@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ba61251-4fa6-4033-bea8-0d3ac8423d12" name="Changes" comment="" />
+    <list default="true" id="8ba61251-4fa6-4033-bea8-0d3ac8423d12" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/YughuesFreeGroundMaterials/Materials/M_YFGM_Grass04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/YughuesFreeGroundMaterials/Materials/M_YFGM_Grass04.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/Houghton Terrain.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/Houghton Terrain.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../VR-BIM-Visualizer/Assets/Scripts/Video Activator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.12/Shaders/Terrain/TerrainLit.shader" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -100,6 +106,7 @@
       <workItem from="1748979926239" duration="436000" />
       <workItem from="1748980544410" duration="89000" />
       <workItem from="1748982218981" duration="35000" />
+      <workItem from="1749147110856" duration="1041000" />
     </task>
     <servers />
   </component>
