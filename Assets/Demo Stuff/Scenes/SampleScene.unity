@@ -4178,7 +4178,7 @@ Transform:
   m_GameObject: {fileID: 541703117}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.29, y: -3.75, z: 3.27}
+  m_LocalPosition: {x: -12.29, y: -3.75, z: 8.45}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -8440,7 +8440,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 365257721316361150, guid: 72138a47ec7b8714c91aa39dcdf3b714, type: 3}
       propertyPath: m_LastSelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: ToggleVideo
+      value: DeactivateVideo
       objectReference: {fileID: 0}
     - target: {fileID: 365257721316361150, guid: 72138a47ec7b8714c91aa39dcdf3b714, type: 3}
       propertyPath: m_FirstSelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
@@ -8448,7 +8448,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 365257721316361150, guid: 72138a47ec7b8714c91aa39dcdf3b714, type: 3}
       propertyPath: m_FirstSelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: ToggleVideo
+      value: ActivateVideo
       objectReference: {fileID: 0}
     - target: {fileID: 365257721316361150, guid: 72138a47ec7b8714c91aa39dcdf3b714, type: 3}
       propertyPath: m_LastSelectExited.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
@@ -12705,7 +12705,7 @@ MonoBehaviour:
   playerTransform: {fileID: 132699459}
   startPosition: {x: -9, y: 0, z: -3}
   videoMaterial: {fileID: 2100000, guid: 949e6629ca49c6f4992dcd58ab3cb754, type: 2}
-  fadeDuration: 1
+  fadeDuration: 0.25
 --- !u!4 &1505191365 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4803614339566677342, guid: 72138a47ec7b8714c91aa39dcdf3b714, type: 3}
@@ -16644,7 +16644,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
