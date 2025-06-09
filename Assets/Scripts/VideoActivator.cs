@@ -21,14 +21,21 @@ public class VideoActivator : MonoBehaviour {
 
     public void ActivateVideo() {
         _playerPosition = playerTransform.position;
+        Debug.Log($"starting position: {_playerPosition}");
         SetMovementActive(false);
         StartCoroutine(FadeAndSwitchVideo(videoMaterial, videoPlayer.Play));
     }
 
     public void DeactivateVideo(){
-        StartCoroutine(FadeAndSwitchVideo(_skyboxMaterial, videoPlayer.Stop));
+        StartCoroutine(StopVideo());
+    }
+    
+    private IEnumerator StopVideo(){
+        yield return StartCoroutine(FadeAndSwitchVideo(_skyboxMaterial, videoPlayer.Stop));
+        // This runs after the fade coroutine completes
         SetMovementActive(true);
         playerTransform.position = _playerPosition;
+        Debug.Log($"Back To: {playerTransform.position}");
     }
 
     private IEnumerator FadeAndSwitchVideo(Material targetMaterial, Action onCompleteAction){
