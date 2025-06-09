@@ -12,21 +12,23 @@ public class VideoActivator : MonoBehaviour {
     public Material videoMaterial;
     public Transform playerTransform;
     [SerializeField] private float fadeDuration = 1f;
-
     private Material _skyboxMaterial;
+    private Vector3 _playerPosition;
 
     void Start(){
         _skyboxMaterial = RenderSettings.skybox;
     }
 
     public void ActivateVideo() {
-        StartCoroutine(FadeAndSwitchVideo(videoMaterial, videoPlayer.Play));
+        _playerPosition = playerTransform.position;
         SetMovementActive(false);
+        StartCoroutine(FadeAndSwitchVideo(videoMaterial, videoPlayer.Play));
     }
 
     public void DeactivateVideo(){
         StartCoroutine(FadeAndSwitchVideo(_skyboxMaterial, videoPlayer.Stop));
         SetMovementActive(true);
+        playerTransform.position = _playerPosition;
     }
 
     private IEnumerator FadeAndSwitchVideo(Material targetMaterial, Action onCompleteAction){
@@ -38,7 +40,7 @@ public class VideoActivator : MonoBehaviour {
         //fadeCanvas.QuickFadeOut();
         
         //perform actions after fading out
-        RenderSettings.skybox = _skyboxMaterial;
+        RenderSettings.skybox = targetMaterial;
         onCompleteAction.Invoke();
 
     }
