@@ -7,7 +7,7 @@ using UnityEngine.Video;
 public class VideoActivator : MonoBehaviour {
 
     public GameObject[] objectsInScene;
-    //public FadeCanvas fadeCanvas;
+    public FadeCanvas fadeCanvas;
     public VideoPlayer videoPlayer;
     public Material videoMaterial;
     public Transform playerTransform;
@@ -39,12 +39,12 @@ public class VideoActivator : MonoBehaviour {
     }
 
     private IEnumerator FadeAndSwitchVideo(Material targetMaterial, Action onCompleteAction){
-        //fadeCanvas.QuickFadeIn();
+        fadeCanvas.QuickFadeIn();
         yield return new WaitForSeconds(fadeDuration);
         
         //perform actions after fading in
         ToggleObjectVisibility(targetMaterial);
-        //fadeCanvas.QuickFadeOut();
+        fadeCanvas.QuickFadeOut();
         
         //perform actions after fading out
         RenderSettings.skybox = targetMaterial;
