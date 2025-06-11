@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8ba61251-4fa6-4033-bea8-0d3ac8423d12" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/360 Video/360 Video Alpha Material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/360 Video/360 Video Alpha Material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/360 Video/360ShaderTransparent.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/360 Video/360ShaderTransparent.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VideoActivator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/VideoActivator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +108,7 @@
       <workItem from="1749147110856" duration="1041000" />
       <workItem from="1749413289033" duration="6668000" />
       <workItem from="1749490413841" duration="579000" />
+      <workItem from="1749674695358" duration="1307000" />
     </task>
     <servers />
   </component>
