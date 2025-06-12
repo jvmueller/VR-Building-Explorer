@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="8ba61251-4fa6-4033-bea8-0d3ac8423d12" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/3d Objects/Office Chair Pack 1.0/Chair1/Materials/Materiais.007.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/3d Objects/Office Chair Pack 1.0/Chair1/Materials/Materiais.007.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/3d Objects/Office Chair Pack 1.0/Chair1/Materials/Materiais.008.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/3d Objects/Office Chair Pack 1.0/Chair1/Materials/Materiais.008.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/3d Objects/Office Chair Pack 1.0/Chair1/Materials/Materiais.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/3d Objects/Office Chair Pack 1.0/Chair1/Materials/Materiais.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/3d Objects/Office Chair Pack 1.0/Chair1/Materials/ambientCG_Metal041A_1K-JPG.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/3d Objects/Office Chair Pack 1.0/Chair1/Materials/ambientCG_Metal041A_1K-JPG.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo Stuff/Samples/XR Interaction Toolkit/3.1.1/Starter Assets/Prefabs/Interactors/Teleport Interactor.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Demo Stuff/Samples/XR Interaction Toolkit/3.1.1/Starter Assets/Prefabs/Interactors/Teleport Interactor.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo Stuff/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Demo Stuff/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +114,8 @@
       <workItem from="1749147110856" duration="1041000" />
       <workItem from="1749413289033" duration="6668000" />
       <workItem from="1749490413841" duration="579000" />
-      <workItem from="1749674695358" duration="1307000" />
+      <workItem from="1749674695358" duration="1518000" />
+      <workItem from="1749752486395" duration="2125000" />
     </task>
     <servers />
   </component>
