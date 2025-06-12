@@ -3,9 +3,8 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class FadeCanvas : MonoBehaviour {
-    [Header("Fade Settings")] [SerializeField]
-    private float fadeInDuration = 0.5f;
-
+    [Header("Fade Settings")]
+    [SerializeField] private float fadeInDuration = 0.5f;
     [SerializeField] private float fadeOutDuration = 0.5f;
     [SerializeField] private AnimationCurve fadeCurve = AnimationCurve.EaseInOut(0, 0, 1, 1);
 
