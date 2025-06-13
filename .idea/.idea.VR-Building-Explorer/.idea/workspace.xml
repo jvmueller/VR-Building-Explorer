@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ba61251-4fa6-4033-bea8-0d3ac8423d12" name="Changes" comment="" />
+    <list default="true" id="8ba61251-4fa6-4033-bea8-0d3ac8423d12" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/WorldMaterialsFree/URPMaterials/ClumpMud_URPShader.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/WorldMaterialsFree/URPMaterials/ClumpMud_URPShader.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/WorldMaterialsFree/URPMaterials/DryRockyDirt_URPShader.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/WorldMaterialsFree/URPMaterials/DryRockyDirt_URPShader.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/WorldMaterialsFree/URPMaterials/SimpleRedBricks_URPShader.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/WorldMaterialsFree/URPMaterials/SimpleRedBricks_URPShader.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo Stuff/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Demo Stuff/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo Stuff/Settings/Project Configuration/SampleScene.scenetemplate" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Demo Stuff/Settings/Project Configuration/SampleScene.scenetemplate" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +114,7 @@
       <workItem from="1749490413841" duration="579000" />
       <workItem from="1749674695358" duration="1518000" />
       <workItem from="1749752486395" duration="4302000" />
+      <workItem from="1749844333831" duration="3215000" />
     </task>
     <servers />
   </component>
