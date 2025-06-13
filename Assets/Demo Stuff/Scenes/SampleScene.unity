@@ -14,10 +14,10 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
-  m_Fog: 0
-  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-  m_FogMode: 3
-  m_FogDensity: 0.05
+  m_Fog: 1
+  m_FogColor: {r: 0.8726415, g: 0.996099, b: 1, a: 1}
+  m_FogMode: 2
+  m_FogDensity: 0.001
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
   m_AmbientSkyColor: {r: 0.20599997, g: 0.46132573, b: 1, a: 1}
@@ -27,7 +27,7 @@ RenderSettings:
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: ec46d2188d4b8774e847e75f1e12a8db, type: 2}
-  m_HaloStrength: 0.5
+  m_HaloStrength: 0
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
   m_HaloTexture: {fileID: 0}
@@ -417,8 +417,8 @@ Transform:
   m_GameObject: {fileID: 74649004}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.54463905, z: 0, w: 0.8386706}
-  m_LocalPosition: {x: -44.3, y: 12.4, z: 14.9}
-  m_LocalScale: {x: 90, y: 50, z: 90}
+  m_LocalPosition: {x: -32.6516, y: 12.4, z: 9.1969}
+  m_LocalScale: {x: 104.75413, y: 50, z: 113.406815}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1783572214}
@@ -11008,8 +11008,8 @@ Transform:
   m_GameObject: {fileID: 1351220016}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.17364816, z: 0, w: 0.9848078}
-  m_LocalPosition: {x: -75, y: -4.51, z: 75}
-  m_LocalScale: {x: 1500, y: 1, z: 400}
+  m_LocalPosition: {x: -75, y: -6.37, z: 75}
+  m_LocalScale: {x: 1500, y: 50, z: 400}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1783572214}
