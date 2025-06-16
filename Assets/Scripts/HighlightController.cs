@@ -11,19 +11,21 @@ public class HighlightController : MonoBehaviour {
     [SerializeField] private float fadeOutDuration = 0.5f;
     [SerializeField] private AnimationCurve fadeCurve = AnimationCurve.EaseInOut(0, 0, 1, 1);
     private Coroutine _currentFadeCoroutine;
-
+    private FadeCanvas _fadeCanvas; //the fade canvas for controlling the fade of the UI interaction popup
     void Start() {
         foreach (Material material in materialsToHighlight) {
             material.SetColor("_EmissionColor", emissionColor * 0f);
         }
+
+        _fadeCanvas = GetComponentInChildren<FadeCanvas>();
     }
     
     public void HighlightOn() {
         if (_currentFadeCoroutine != null) {
             StopCoroutine(_currentFadeCoroutine);
         }
-
-        _currentFadeCoroutine = StartCoroutine(FadeCoroutine(true, fadeInDuration));
+        _currentFadeCoroutine = StartCoroutine(FadeEmissionCoroutine(true, fadeInDuration));
+        _fadeCanvas.QuickFadeIn();
     }
 
     public void HighlightOff() {
@@ -31,10 +33,11 @@ public class HighlightController : MonoBehaviour {
             StopCoroutine(_currentFadeCoroutine);
         }
 
-        _currentFadeCoroutine = StartCoroutine(FadeCoroutine(false, fadeOutDuration));
+        _currentFadeCoroutine = StartCoroutine(FadeEmissionCoroutine(false, fadeOutDuration));
+        _fadeCanvas.QuickFadeOut();
     }
     
-    private IEnumerator FadeCoroutine(bool fadeIn, float duration) {
+    private IEnumerator FadeEmissionCoroutine(bool fadeIn, float duration) {
         float startIntensity = fadeIn ? 0f : emissionIntensity;
         float endIntensity = fadeIn ? emissionIntensity : 0f;
         float elapsedTime = 0f;
