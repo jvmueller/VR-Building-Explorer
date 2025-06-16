@@ -13055,6 +13055,7 @@ MonoBehaviour:
   - {fileID: 1457456812}
   - {fileID: 1565887663878291440}
   - {fileID: 2017963911}
+  - {fileID: 2124029096}
   objectsToHide: []
 --- !u!43 &112135954
 Mesh:
@@ -170268,12 +170269,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a816ac3ac90e4bd4da5e457d3a17b87d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectsInScene:
-  - {fileID: 1783572213}
-  - {fileID: 1565887663878291440}
-  - {fileID: 1457456812}
-  - {fileID: 2017963911}
-  - {fileID: 2124029096}
   fadeCanvas: {fileID: 536656824}
   videoPlayer: {fileID: 1972738849}
   videoMaterial: {fileID: 2100000, guid: a9d031b8ee304704cba9fb63b6f4c02d, type: 2}
