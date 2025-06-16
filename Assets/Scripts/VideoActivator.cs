@@ -5,8 +5,6 @@ using UnityEngine;
 using UnityEngine.Video;
 
 public class VideoActivator : MonoBehaviour {
-
-    public GameObject[] objectsInScene;
     public FadeCanvas fadeCanvas;
     public VideoPlayer videoPlayer;
     public Material videoMaterial;
@@ -21,7 +19,6 @@ public class VideoActivator : MonoBehaviour {
 
     public void ActivateVideo() {
         _playerPosition = playerTransform.position;
-        Debug.Log($"starting position: {_playerPosition}");
         SetMovementActive(false);
         StartCoroutine(FadeAndSwitchVideo(videoMaterial, videoPlayer.Play));
     }
@@ -35,7 +32,6 @@ public class VideoActivator : MonoBehaviour {
         // This runs after the fade coroutine completes
         SetMovementActive(true);
         playerTransform.position = _playerPosition;
-        Debug.Log($"Back To: {playerTransform.position}");
     }
 
     private IEnumerator FadeAndSwitchVideo(Material targetMaterial, Action onCompleteAction){
@@ -53,9 +49,13 @@ public class VideoActivator : MonoBehaviour {
     }
 
     private void ToggleObjectVisibility(Material targetMaterial) {
-        foreach (GameObject obj in objectsInScene) {
-            obj.SetActive(targetMaterial.Equals(_skyboxMaterial));
+        if (targetMaterial.Equals(_skyboxMaterial)) {
+            ObfuscationManager.instance.ShowAll();
         }
+        else {
+            ObfuscationManager.instance.HideAll();
+        }
+
     }
     void SetMovementActive(bool active){
         playerTransform.Find("Locomotion").Find("Move").gameObject.SetActive(active);
