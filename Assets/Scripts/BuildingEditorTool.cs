@@ -9,11 +9,12 @@ public class BuildingEditorTool : MonoBehaviour {
     [SerializeField] private Material brick;
     [SerializeField] private string wallName;
     [SerializeField] private string windowName;
-    
+    [SerializeField] private List<string> colliderNames;
     //private variables
     private Transform[] _children;
     private List<Transform> _walls;
     private List<Transform> _windows;
+    private List<Transform> _colliders;
     
     
     private void GetChildReferences() {
@@ -21,13 +22,22 @@ public class BuildingEditorTool : MonoBehaviour {
         _children = GetComponentsInChildren<Transform>();
         _walls = new List<Transform>();
         _windows = new List<Transform>();
+        _colliders = new List<Transform>();
 
         //adds the walls and windows to their respective lists.
         foreach (Transform child in _children) {
             if (child.name.Contains(wallName)) {
                 _walls.Add(child);
-            } else if(child.name.Contains(windowName)){
+            }
+            else if (child.name.Contains(windowName)) {
                 _windows.Add(child);
+            }
+            else {
+                foreach (string childName in colliderNames) {
+                    if (child.name.Contains(childName)) {
+                        _colliders.Add(child);
+                    }
+                }
             }
         }
     }
@@ -55,21 +65,29 @@ public class BuildingEditorTool : MonoBehaviour {
     public void AddColliders() {
         GetChildReferences();
         
-        //adds a mesh collider to all walls
-        foreach (Transform wall in _walls) {
-            AddMeshCollider(wall);
+        //adds a mesh collider to all objects designated for collision
+        foreach (Transform colliderObject in _colliders) {
+            AddMeshCollider(colliderObject);
         }
-        
-        //adds the window material to all windows
-        foreach (Transform window in _windows) {
-            AddMeshCollider(window);
+    }
+    
+    //erases colliders from every object
+    [ContextMenu("Clear Colliders")]
+    public void ClearColliders() {
+        Collider meshCollider;
+        foreach (Transform child in _children) {
+            meshCollider = child.GetComponent<MeshCollider>();
+            if (meshCollider != null){
+                Debug.LogWarning("erasing collider of " + child.name);
+                Destroy(meshCollider);
+            }
         }
-        
     }
 
     //helper method for AddColliders()
     void AddMeshCollider(Transform wall) {
         // Check if mesh collider already exists
+        
         if (wall.GetComponent<MeshCollider>() != null){
             Debug.LogWarning("MeshCollider already exists on " + wall.name);
             return;

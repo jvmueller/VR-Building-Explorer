@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8ba61251-4fa6-4033-bea8-0d3ac8423d12" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo Stuff/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Demo Stuff/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Demo Stuff/Settings/Project Configuration/SampleScene.scenetemplate" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Demo Stuff/Settings/Project Configuration/SampleScene.scenetemplate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BuildingEditorTool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BuildingEditorTool.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +115,7 @@
       <workItem from="1749752486395" duration="4302000" />
       <workItem from="1749844333831" duration="3842000" />
       <workItem from="1750089482866" duration="3878000" />
+      <workItem from="1751474726880" duration="2386000" />
     </task>
     <servers />
   </component>
