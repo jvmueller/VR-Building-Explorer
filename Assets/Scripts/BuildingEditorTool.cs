@@ -7,13 +7,21 @@ using UnityEngine;
 public class BuildingEditorTool : MonoBehaviour {
     [SerializeField] private Material glass;
     [SerializeField] private Material brick;
+    [SerializeField] private Material chairMat;
+    [SerializeField] private Material tableMat;
+    
     [SerializeField] private string wallName;
     [SerializeField] private string windowName;
+    [SerializeField] private string chairName;
+    [SerializeField] private string tableName;
     [SerializeField] private List<string> colliderNames;
+    
     //private variables
     private Transform[] _children;
     private List<Transform> _walls;
     private List<Transform> _windows;
+    private List<Transform> _chairs;
+    private List<Transform> _tables;
     private List<Transform> _colliders;
     
     
@@ -23,6 +31,8 @@ public class BuildingEditorTool : MonoBehaviour {
         _walls = new List<Transform>();
         _windows = new List<Transform>();
         _colliders = new List<Transform>();
+        _chairs = new List<Transform>();
+        _tables = new List<Transform>();
 
         //adds the walls and windows to their respective lists.
         foreach (Transform child in _children) {
@@ -32,11 +42,15 @@ public class BuildingEditorTool : MonoBehaviour {
             else if (child.name.Contains(windowName)) {
                 _windows.Add(child);
             }
-            else {
-                foreach (string childName in colliderNames) {
-                    if (child.name.Contains(childName)) {
-                        _colliders.Add(child);
-                    }
+            else if (child.name.Contains(chairName)){
+                _chairs.Add(child);
+            }
+            else if (child.name.Contains(tableName)) {
+                _tables.Add(child);
+            }
+            foreach (string childName in colliderNames) {
+                if (child.name.Contains(childName)) {
+                    _colliders.Add(child);
                 }
             }
         }
@@ -48,14 +62,25 @@ public class BuildingEditorTool : MonoBehaviour {
     public void SetMaterials() {
         GetChildReferences();
         
+        /*
         //adds the wall material to all walls
         foreach (Transform wall in _walls) {
             wall.GetComponent<Renderer>().material = brick;
-        }
+        }*/
         
         //adds the window material to all windows
         foreach (Transform window in _windows) {
             window.GetComponent<Renderer>().material = glass;
+        }
+        
+        //adds the window material to all windows
+        foreach (Transform chair in _chairs) {
+            chair.GetComponent<Renderer>().material = chairMat;
+        }
+        
+        //adds the window material to all windows
+        foreach (Transform table in _tables) {
+            table.GetComponent<Renderer>().material = tableMat;
         }
     }
 

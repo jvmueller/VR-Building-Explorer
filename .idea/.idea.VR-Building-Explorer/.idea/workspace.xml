@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8ba61251-4fa6-4033-bea8-0d3ac8423d12" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/Architectural Materials/Materials/M_YFAM_Plasterboard.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/Architectural Materials/Materials/M_YFAM_Plasterboard.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/WorldMaterialsFree/URPMaterials/BasketWeaveBricks_URPShader.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/WorldMaterialsFree/URPMaterials/BasketWeaveBricks_URPShader.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/WorldMaterialsFree/URPMaterials/DesertSandBrick_URPShader.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/WorldMaterialsFree/URPMaterials/DesertSandBrick_URPShader.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Demo Stuff/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Demo Stuff/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Demo Stuff/Settings/Project Configuration/SampleScene.scenetemplate" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Demo Stuff/Settings/Project Configuration/SampleScene.scenetemplate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/BuildingEditorTool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BuildingEditorTool.cs" afterDir="false" />
@@ -116,6 +119,7 @@
       <workItem from="1749844333831" duration="3842000" />
       <workItem from="1750089482866" duration="3878000" />
       <workItem from="1751474726880" duration="2386000" />
+      <workItem from="1751655278287" duration="1728000" />
     </task>
     <servers />
   </component>
