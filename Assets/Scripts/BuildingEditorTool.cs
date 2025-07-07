@@ -6,11 +6,11 @@ using Unity.VisualScripting;
 using UnityEngine;
 public class BuildingEditorTool : MonoBehaviour {
     [SerializeField] private Material glass;
-    [SerializeField] private Material brick;
+    //[SerializeField] private Material brick;
     [SerializeField] private Material chairMat;
     [SerializeField] private Material tableMat;
     
-    [SerializeField] private string wallName;
+    //[SerializeField] private string wallName;
     [SerializeField] private string windowName;
     [SerializeField] private string chairName;
     [SerializeField] private string tableName;
@@ -18,7 +18,7 @@ public class BuildingEditorTool : MonoBehaviour {
     
     //private variables
     private Transform[] _children;
-    private List<Transform> _walls;
+    //private List<Transform> _walls;
     private List<Transform> _windows;
     private List<Transform> _chairs;
     private List<Transform> _tables;
@@ -28,7 +28,7 @@ public class BuildingEditorTool : MonoBehaviour {
     private void GetChildReferences() {
         //gets references to all children of the Mub Model (every individual piece of building).
         _children = GetComponentsInChildren<Transform>();
-        _walls = new List<Transform>();
+        //_walls = new List<Transform>();
         _windows = new List<Transform>();
         _colliders = new List<Transform>();
         _chairs = new List<Transform>();
@@ -36,10 +36,10 @@ public class BuildingEditorTool : MonoBehaviour {
 
         //adds the walls and windows to their respective lists.
         foreach (Transform child in _children) {
-            if (child.name.Contains(wallName)) {
-                _walls.Add(child);
-            }
-            else if (child.name.Contains(windowName)) {
+            //if (child.name.Contains(wallName)) {
+            //    _walls.Add(child);
+            //}
+            if (child.name.Contains(windowName)) {
                 _windows.Add(child);
             }
             else if (child.name.Contains(chairName)){
