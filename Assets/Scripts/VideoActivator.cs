@@ -6,21 +6,24 @@ using UnityEngine.Video;
 
 public class VideoActivator : MonoBehaviour {
     public FadeCanvas fadeCanvas;
-    public VideoPlayer videoPlayer;
+    
     public Material videoMaterial;
     public Transform playerTransform;
     [SerializeField] private float fadeDuration = 1f;
     private Material _skyboxMaterial;
     private Vector3 _playerPosition;
+    private VideoPlayer _videoPlayer;
+    
 
     void Start(){
         _skyboxMaterial = RenderSettings.skybox;
+        _videoPlayer = GetComponentInChildren<VideoPlayer>();
     }
 
     public void ActivateVideo() {
         _playerPosition = playerTransform.position;
         SetMovementActive(false);
-        StartCoroutine(FadeAndSwitchVideo(videoMaterial, videoPlayer.Play));
+        StartCoroutine(FadeAndSwitchVideo(videoMaterial, _videoPlayer.Play));
     }
 
     public void DeactivateVideo(){
@@ -28,7 +31,7 @@ public class VideoActivator : MonoBehaviour {
     }
     
     private IEnumerator StopVideo(){
-        yield return StartCoroutine(FadeAndSwitchVideo(_skyboxMaterial, videoPlayer.Stop));
+        yield return StartCoroutine(FadeAndSwitchVideo(_skyboxMaterial, _videoPlayer.Stop));
         // This runs after the fade coroutine completes
         SetMovementActive(true);
         playerTransform.position = _playerPosition;
