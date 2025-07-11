@@ -18,6 +18,7 @@ public class VideoActivator : MonoBehaviour {
     void Start(){
         _skyboxMaterial = RenderSettings.skybox;
         _videoPlayer = GetComponentInChildren<VideoPlayer>();
+        _videoPlayer.Prepare();
     }
 
     public void ActivateVideo() {
