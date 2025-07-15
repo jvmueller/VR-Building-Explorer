@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ba61251-4fa6-4033-bea8-0d3ac8423d12" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR-Building-Explorer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/Ground Materials/Textures/T_YFGM_Grass04_d.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/Ground Materials/Textures/T_YFGM_Grass04_d.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asset Store/Water shader/Simple Water Shader/Resources/Water_mat_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asset Store/Water shader/Simple Water Shader/Resources/Water_mat_01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Demo Stuff/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Demo Stuff/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Demo Stuff/Settings/Project Configuration/SampleScene.scenetemplate" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Demo Stuff/Settings/Project Configuration/SampleScene.scenetemplate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +119,7 @@
       <workItem from="1752258922578" duration="435000" />
       <workItem from="1752601682980" duration="5000" />
       <workItem from="1752601703369" duration="489000" />
+      <workItem from="1752602791420" duration="9000" />
     </task>
     <servers />
   </component>
